@@ -7,9 +7,9 @@
 ### ML Engineer ⚡.
 ## Youtube: https://www.youtube.com/@WesleyGonzalesAI
 
-
+<!--
 ![9Pf1](https://github.com/user-attachments/assets/000854e4-f194-46ab-b297-9fdd13ef31b2)
-
+-->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WesleyG31&theme=highcontrast)
 
